@@ -1,4 +1,4 @@
-package com.jenkins.sneha-user;
+package com.jenkins.sneha-user
 
 /**
  * Hello world!
